@@ -1,0 +1,3 @@
+Hello world! Hello Codex.
+This is a test text for word frequency statistics.
+Hello Git, hello Python.
